@@ -1,6 +1,6 @@
 library(shiny)
 library(plotly)
-shinyUI(fluidPage(titlePanel('State Exports'),
+shinyUI(fluidPage(titlePanel('Iris'),
 # Create sidebar layout
   sidebarLayout(
     
